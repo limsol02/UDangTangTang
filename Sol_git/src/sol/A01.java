@@ -6,6 +6,7 @@ public class A01 {
 		// TODO Auto-generated method stub
 		
 		// please commit,,
+		// 된겨?????
 
 	}
 
